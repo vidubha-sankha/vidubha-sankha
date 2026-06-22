@@ -1,15 +1,64 @@
-<h1 align="center">Hi 👋, I'm vidubha</h1>
-<h3 align="center">data analyst</h3>
+<h1 align="center">Hi 👋, I'm Vidubha Sankha</h1>
+<h3 align="center">📊 Aspiring Data Analyst | Turning Data into Insights</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vidubha-sankha&label=Profile%20views&color=0e75b6&style=flat" alt="vidubha-sankha" /> </p>
+---
 
-- 🌱 I’m currently learning **BICT(hons) Degree program in university of Vavuniya**
+## 👨‍💻 About Me
+- 🎓 Undergraduate at University of Vavuniya (BICT Hons)
+- 📊 Passionate about Data Analysis & Visualization
+- 📚 Currently learning Advanced Data Science techniques
+- 💡 Love solving real-world problems using data
 
-- 📫 How to reach me **mathugamagevidubasanka@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+## 🛠️ Skills & Tools
+
+### 📌 Programming & Analysis
+- Python (NumPy, Pandas, Scikit-learn)
+- SQL
+- Statistics
+
+### 📊 Data Visualization
+- Matplotlib
+- Seaborn
+- Power BI
+- Excel
+
+---
+
+## 🚀 Projects
+
+### 🔹 Heart Disease Prediction
+- Built ML model using Scikit-learn
+- Data preprocessing with Pandas
+- Achieved high accuracy classification
+
+### 🔹 Road Damage Detection
+- Image/data analysis project
+- Applied data cleaning and visualization
+
+### 🔹 Power BI Dashboard
+- Created interactive dashboards
+- Business insights using real datasets
+
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vidubha-sankha&show_icons=true&theme=radical" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vidubha-sankha&theme=radical" />
+</p>
+
+---
+
+## 📫 Connect with Me
+- 📧 Email: mathugamagevidubasanka@gmail.com
+- 💼 LinkedIn: (Add your LinkedIn link here)
+
+---
+
+## ⚡ Fun Fact
+"I love turning raw data into meaningful stories 📊✨"
