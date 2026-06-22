@@ -56,7 +56,7 @@
 
 ## 📫 Connect with Me
 - 📧 Email: mathugamagevidubasanka@gmail.com
-- 💼 LinkedIn: linkedin.com/in/vidubha-sankha-b35867354
+- 💼 LinkedIn: https://www.linkedin.com/in/vidubha-sankha-b35867354
 
 ---
 
