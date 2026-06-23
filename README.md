@@ -35,6 +35,20 @@
 
 ---
 
+## 🐍 Contribution Graph
+
+![snake gif](https://github.com/vidubha-sankha/vidubha-sankha/blob/output/github-contribution-grid-snake.svg)
+
+## 📊 GitHub Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vidubha-sankha&theme=react-dark)
+
+## 📈 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=vidubha-sankha&show_icons=true&theme=radical)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=vidubha-sankha&theme=radical)
+
 
 
 ## 📫 Connect with Me
