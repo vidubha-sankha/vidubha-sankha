@@ -35,9 +35,7 @@
 
 ---
 
-## 🐍 Contribution Graph
 
-![snake gif](https://github.com/vidubha-sankha/vidubha-sankha/blob/output/github-contribution-grid-snake.svg)
 
 ## 📫 Connect with Me
 - 📧 Email: mathugamagevidubasanka@gmail.com
