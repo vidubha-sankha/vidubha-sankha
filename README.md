@@ -24,25 +24,6 @@
 - Power BI
 - Excel
 
----
-
-## 🚀 Projects
-
-### 🔹 Heart Disease Prediction
-- Built ML model using Scikit-learn
-- Data preprocessing with Pandas
-- Achieved high accuracy classification
-
-### 🔹 Road Damage Detection
-- Image/data analysis project
-- Applied data cleaning and visualization
-
-### 🔹 Power BI Dashboard
-- Created interactive dashboards
-- Business insights using real datasets
-
----
-
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vidubha-sankha&show_icons=true&theme=radical" />
@@ -53,6 +34,10 @@
 </p>
 
 ---
+
+## 🐍 Contribution Graph
+
+![snake gif](https://github.com/vidubha-sankha/vidubha-sankha/blob/output/github-contribution-grid-snake.svg)
 
 ## 📫 Connect with Me
 - 📧 Email: mathugamagevidubasanka@gmail.com
