@@ -59,12 +59,9 @@ An AI and machine learning project focused on identifying road damage and suppor
 
 ---
 
-## 📅 GitHub Contributions
+## 📈 GitHub Activity Graph
 
-![GitHub Contributions](https://ghchart.rshah.org/vidubha-sankha)
-
-[View my GitHub profile](https://github.com/vidubha-sankha)
----
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vidubha-sankha&theme=react-dark)
 
 ## 📊 GitHub Statistics
 
